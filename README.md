@@ -29,7 +29,7 @@ First I created the piston which wasnt as hard as some of the other parts, it ta
 Then created the ring and pins which were the easiest to do.
 
 <p align="center">
-  <img src="Images/PRing.png" width="300">
+  <img src="Images/PRing.png" width="500">
   <img src="Images/Pin.png" width="300">
 </p>
   
