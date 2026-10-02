@@ -20,12 +20,11 @@ I created each part separately, then used the assembly to mate the parts and mov
 
 First I created the piston which wasnt as hard as some of the other parts, it taught me to use repeated patterns to make multipe cuts faster.
 
-
-  
-  
- <p align="centre"> 
-  <img scr=(Images/Piston.png) width="500">
+<p align="center">
+  <img src="Images/Piston.png" width="500">
   <br>
-  <em> Piston </em>
+  <em>SolidWorks engine assembly</em>
 </p>
+  
+  
  
