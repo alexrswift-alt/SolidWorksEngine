@@ -30,9 +30,7 @@ Then created the ring and pins which were the easiest to do.
 
 <p align="center">
   <img src="Images/PRing.png" width="300">
-  
-  <img scr="Images/Pin.png" width="300">
-  <em>Piston Ring</em> <em>Pin</em>
-</p>  
+  <img src="Images/Pin.png" width="300">
+</p>
   
  
