@@ -72,3 +72,7 @@ This was probably the hardest part of the whole project. Having to create a line
 </p>
 
 <h2> Engine In Motion </h2>
+
+<p align="center">
+  <img src="Images/Engine.gif" width="500">
+</p>
