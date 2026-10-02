@@ -15,7 +15,7 @@ Because I aimed to improve my CAD I used an already designed engine to build ins
 - SolidWorks
 
 <p align="center">
-  <img src="Images/Scematics.png" width="300">
+  <img src="Images/Scematics.png" width="600">
   <br>
   <em>Used Engine Scematics</em>
 </p>
