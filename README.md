@@ -14,6 +14,16 @@ Because I aimed to improve my CAD I used an already designed engine to build ins
 <h2> CAD Software Used </h2>
 - SolidWorks
 
+<p align="center">
+  <img src="Images/Scematics.png" width="300">
+  <br>
+  <em>Used Engine Scematics</em>
+</p>
+
+
+
+
+
 <h2> Creating the Parts </h2>
 
 I created each part separately, then used the assembly to mate the parts and move the engine.
@@ -48,7 +58,13 @@ Finally I created the cap, connect rod and crank shaft which were a little more 
 
 </p>
 
+<h2> Assembly </h2>
+
+This was probably the hardest part of the whole project. Having to create a line to mate all the parts together so that they all shared the same plane and rotational axis took a while to manage. There was lots I learned here though, about the amount of mates and freedom you can get when combining parts together into a system. 
 
 
-
-
+<p align="center">
+  <img src="Images/WholeEngine.png" width="300">
+  <br>
+  <em>Assembled Engine</em>
+</p>
