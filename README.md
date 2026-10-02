@@ -20,4 +20,9 @@ I created each part separately, then used the assembly to mate the parts and mov
 
 First I created the piston which wasnt as hard as some of the other parts, it taught me to use repeated patterns to make multipe cuts faster.
 
-![Piston](Images/Piston.png)
+<p align="centre">
+  <img scr="images/Piston.png" width="500">
+  <br>
+  <em> Piston </em>
+</p>
+ 
