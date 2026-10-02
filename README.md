@@ -14,7 +14,7 @@ Because I aimed to improve my CAD I used an already designed engine to build ins
 <h2> CAD Software Used </h2>
 - SolidWorks
 
-<h2> Process </h2>
+<h2> Creating the Parts </h2>
 
 I created each part separately, then used the assembly to mate the parts and move the engine.
 
@@ -36,4 +36,19 @@ Then created the ring and pins which were the easiest to do.
 
 </p>
   
- 
+Finally I created the cap, connect rod and crank shaft which were a little more complicated. The crank shaft was by far the hardest to create due to its size and complexity. 
+
+
+<p align="center">
+  <img src="Images/CrankShaft.png" width="500">
+  <img src="Images/ConnectRod.png" width="300">
+  <img src="Images/Cap.png" width="300">
+  <br>
+  <em>Crank Shaft, Rod and Cap</em>
+
+</p>
+
+
+
+
+
