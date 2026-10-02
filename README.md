@@ -18,5 +18,5 @@ Because I aimed to improve my CAD I used an already designed engine to build ins
 
 I created each part separately, then used the assembly to mate the parts and move the engine.
 
-First I created the Piston - 
+First I created the piston which wasnt as hard as some of the other parts, it taught me to use repeated patterns to make multipe cuts faster.
 
