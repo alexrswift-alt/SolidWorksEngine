@@ -18,3 +18,8 @@ Because I aimed to improve my CAD I used an already designed engine to build ins
 
 I created each part separately, then used the assembly to mate the parts and move the engine.
 
+First I created the Piston - 
+<p align="center">
+<img src="<img width="851" height="275" alt="Screenshot 2026-10-02 145752" src="https://github.com/user-attachments/assets/3c567cf7-10b1-4987-9c1b-37a7787dea13" />
+" width="500">
+</p>
