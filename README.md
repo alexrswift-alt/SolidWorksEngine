@@ -25,6 +25,14 @@ First I created the piston which wasnt as hard as some of the other parts, it ta
   <br>
   <em>Piston</em>
 </p>
-  
+
+Then created the ring and pins which were the easiest to do.
+
+<p align="center">
+  <img src="Images/PRing.png" width="300">
+  <img scr="Images/Pin.png" width="300">
+  <br>
+  <em>Piston Ring</em>
+</p>  
   
  
