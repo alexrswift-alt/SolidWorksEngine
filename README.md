@@ -19,7 +19,7 @@ Because I aimed to improve my CAD I used an already designed engine to build ins
   <p align="center">
   <img src="Images/Scematics.png" width="600">
   <br>
-  <em>Used Engine Scematics<em>
+  <em >Used Engine Scematics <em>
 </p>
 
 
@@ -35,7 +35,7 @@ First I created the piston which wasnt as hard as some of the other parts, it ta
 <p align="center">
   <img src="Images/Piston.png" width="300">
   <br>
-  <em>Piston</em>
+  <em> Piston </em>
 </p>
 
 Then created the ring and pins which were the easiest to do.
@@ -44,7 +44,7 @@ Then created the ring and pins which were the easiest to do.
   <img src="Images/PRing.png" width="500">
   <img src="Images/Pin.png" width="300">
 <br>
-  <em>Piston Ring and Pin</em>
+  <em> Piston Ring and Pin </em>
 
 </p>
   
@@ -56,7 +56,7 @@ Finally I created the cap, connect rod and crank shaft which were a little more 
   <img src="Images/ConnectRod.png" width="150">
   <img src="Images/Cap.png" width="300">
   <br>
-  <em>Crank Shaft, Rod and Cap</em>
+  <em> Crank Shaft, Rod and Cap </em>
 
 </p>
 
@@ -68,7 +68,7 @@ This was probably the hardest part of the whole project. Having to create a line
 <p align="center">
   <img src="Images/WholeEngine.png" width="300">
   <br>
-  <em>Assembled Engine</em>
+  <em> Assembled Engine </em>
 </p>
 
 <h2> Engine In Motion </h2>
