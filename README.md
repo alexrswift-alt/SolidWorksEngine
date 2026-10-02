@@ -76,3 +76,11 @@ This was probably the hardest part of the whole project. Having to create a line
 <p align="center">
   <img src="Images/Engine.gif" width="500">
 </p>
+
+
+<h2> Reflection </h2>
+
+Overall the project was extremely useful for building CAD skills. I learned many features and shortcuts in SolidWorks that I wouldn't have know juts from my Aerospace course. If I was to do another CAD project I would also design the build instead of using scematics. 
+
+
+
