@@ -22,9 +22,9 @@ First I created the piston which wasnt as hard as some of the other parts, it ta
 
 
   
-  ![Piston screenshot](Images/Piston.png)
+  
  <p align="centre"> 
-  <img scr="Images/Piston.png" width="500">
+  <img scr=(Images/Piston.png) width="500">
   <br>
   <em> Piston </em>
 </p>
