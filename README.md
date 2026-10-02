@@ -40,7 +40,7 @@ Finally I created the cap, connect rod and crank shaft which were a little more 
 
 
 <p align="center">
-  <img src="Images/CrankShaft.png" width="500">
+  <img src="Images/CrankShaft.png" width="300">
   <img src="Images/ConnectRod.png" width="300">
   <img src="Images/Cap.png" width="300">
   <br>
