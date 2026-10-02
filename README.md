@@ -14,7 +14,7 @@ Because I aimed to improve my CAD I used an already designed engine to build ins
 <h2> CAD Software Used </h2>
 - SolidWorks
 
-<h2> Resources Used <h2>
+
 
   <p align="center">
   <img src="Images/Scematics.png" width="600">
